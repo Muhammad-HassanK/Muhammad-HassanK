@@ -1,0 +1,29 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+/* body{
+    justify-content: center;
+    align-items: center;
+    min-height: 70vh;
+} */
+
+#head{
+    color: #fff;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 385px;
+    height: 70px;
+    background: #009688;;
+}
+
+#btn{
+    color: #fff;
+    text-align: center;
+    width: 126px;
+    height: 28px;
+    background: #009688;
+    margin: 2px;
+    position: relative;
+}
